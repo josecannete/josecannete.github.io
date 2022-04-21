@@ -22,7 +22,7 @@ url_code: https://github.com/OpenCENIA/Spanish-Sentence-Evaluation
 # url_video:
 
 links:
-- name: arxiv
+- name: arXiv
   url: https://arxiv.org/abs/2204.07571
 ---
 
