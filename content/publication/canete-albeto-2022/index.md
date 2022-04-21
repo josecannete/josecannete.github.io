@@ -20,6 +20,6 @@ links:
 - name: Models
   url: https://huggingface.co/CenIA
 - name: arXiv
-  url: https://arxiv.org/abs/2204.07571
+  url: https://arxiv.org/abs/2204.09145
 ---
 
