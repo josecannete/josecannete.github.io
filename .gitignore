@@ -12,3 +12,4 @@ go.sum
 .DS_Store
 
 venv
+cache
