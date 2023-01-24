@@ -6,17 +6,15 @@ title: José Cañete
 superuser: true
 
 # Role/position/tagline
-role: Machine Learning Engineer & Msc. in Computer Science student
+role: Msc. in Computer Science student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Centro Nacional de Inteligencia Artificial
-  url: https://www.cenia.cl
 - name: Universidad de Chile
   url: https://dcc.uchile.cl
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Artificial Intelligence and how to handle and optimize these systems for production environments.
 
 # Interests to show in About widget
 interests:
@@ -29,7 +27,7 @@ education:
   courses:
   - course: MSc in Computer Science
     institution: Universidad de Chile
-    year: 2021-2022 (ongoing)
+    year: 2021-2023 (ongoing)
   - course: BSc in Computer Science
     institution: Universidad de Chile
     year: 2021
@@ -71,7 +69,7 @@ highlight_name: true
 
 Hello!
 
-I'm José. I'm currently working on my master's thesis on Language Models for Spanish under the supervision of [Felipe Bravo-Márquez](https://felipebravom.com/). I'm also working part-time as Machine Learning Engineer at [CENIA](https://cenia.cl).
+I'm José. I'm currently working on my master's thesis on Language Models for Spanish under the supervision of [Felipe Bravo-Márquez](https://felipebravom.com/).
 
 I'm member of the [ReLeLa](https://relela.com/) research group at [DCC UChile](https://dcc.uchile.cl) and my research interests include Artificial Intelligence and how to handle and optimize these systems for production environments.
 
