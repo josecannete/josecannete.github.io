@@ -16,6 +16,7 @@ header:
 
 # Talks
 - [Efficient models for Spanish NLP through Knowledge Distillation by José Cañete](https://youtu.be/qybe09fGcuA)
+- [Light and Fast Language Models for Spanish Through Compression Techniques](https://youtu.be/qKSfwKv3e-0) - [slides](https://relela.com/slides/josecañetertesisII.pdf)
 
 # Podcast
 - [We Decentralize Tech - Ep. 28 - José Cañete (CenIA, creador de BETO) - Generando modelos grandes para lenguaje](https://open.spotify.com/episode/54TMM8W01fjjL404MybEtV?si=ae544bd479e84bda)
