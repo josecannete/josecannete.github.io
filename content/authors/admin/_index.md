@@ -6,7 +6,7 @@ title: José Cañete
 superuser: true
 
 # Role/position/tagline
-role: Msc. in Computer Science student
+role: Senior Machine Learning Engineer | MSc. in Computer Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -25,10 +25,10 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: MSc in Computer Science
+  - course: MSc. in Computer Science
     institution: Universidad de Chile
     year: 2023
-  - course: BSc in Computer Science and Engineering
+  - course: BSc. in Computer Science and Engineering
     institution: Universidad de Chile
     year: 2021
 
