@@ -67,10 +67,14 @@ email: ""
 highlight_name: true
 ---
 
-Hello!
+Hello there, I'm José! 😁
 
-I'm José. I'm currently working on my master's thesis on Language Models for Spanish under the supervision of [Felipe Bravo-Márquez](https://felipebravom.com/).
+I'm a Senior Machine Learning Engineer at Walmart, passionate about leveraging AI for real-world impact. I hold an MSc. in Computer Science, graduated from Universidad de Chile, and specialize in Language Models.
 
-I'm member of the [ReLeLa](https://relela.com/) research group at [DCC UChile](https://dcc.uchile.cl) and my research interests include Artificial Intelligence and how to handle and optimize these systems for production environments.
+I pioneered [**BETO**](https://github.com/dccuchile/beto), the first BERT-like model for Spanish, and introduced [**ALBETO**](https://github.com/dccuchile/lightweight-spanish-language-models), a suite of light and fast models based in ALBERT for Spanish. 
 
-On my spare time I enjoy from listen to music and learning new things from podcasts or audiobooks.
+Formerly a founding member of the [ReLeLa](https://relela.com/) research group at [DCC UChile](https://dcc.uchile.cl), I've passionately explored Artificial Intelligence and optimizing systems for real-world applications. 
+
+Outside of work, music and podcasts are my go-to sources for relaxation and learning.
+
+Feel free to reach out – you'll find my contact details in the adjacent bio.
