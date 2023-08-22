@@ -27,8 +27,8 @@ education:
   courses:
   - course: MSc in Computer Science
     institution: Universidad de Chile
-    year: 2021-2023 (ongoing)
-  - course: BSc in Computer Science
+    year: 2023
+  - course: BSc in Computer Science and Engineering
     institution: Universidad de Chile
     year: 2021
 
