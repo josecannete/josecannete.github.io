@@ -6,7 +6,7 @@ title: José Cañete
 superuser: true
 
 # Role/position/tagline
-role: Senior Machine Learning Engineer | MSc. in Computer Science
+role: Expert Machine Learning Engineer | MSc. in Computer Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -69,7 +69,7 @@ highlight_name: true
 
 Hello there, I'm José! 😁
 
-I'm a Senior Machine Learning Engineer at Walmart, passionate about leveraging AI for real-world impact. I hold an MSc. in Computer Science, graduated from Universidad de Chile, and specialize in Language Models.
+I'm a Expert Machine Learning Engineer at Walmart, passionate about leveraging AI for real-world impact. I hold an MSc. in Computer Science, graduated from Universidad de Chile, and specialize in Language Models.
 
 I pioneered [**BETO**](https://github.com/dccuchile/beto), the first BERT-like model for Spanish, and introduced [**ALBETO**](https://github.com/dccuchile/lightweight-spanish-language-models), a suite of light and fast models based in ALBERT for Spanish. 
 
