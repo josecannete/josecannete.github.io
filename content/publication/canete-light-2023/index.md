@@ -12,7 +12,7 @@ The outcomes of our study reveal that our ALBETO models perform at a similar lev
 Regarding our Speedy Gonzales models, the results indicate an enhancement in inference speed at the expense of a slight decline in task performance. Notably, this decay is minimal in the case of our 8 and 10 layer models, while it is more pronounced in the faster models with 2-4 layers. Moreover, our 10-layer model, referred to as ALBETO base-10, delivers performance that is generally comparable to base-sized models, while also demonstrating improved inference speed.
 All of our models (pre-trained, fine-tuned and distilled) are publicly available on: https://huggingface.co/dccuchile."
 featured: false
-publication: "Universidad de Chile"
+publication: "Master's Thesis - Universidad de Chile"
 url_pdf: https://repositorio.uchile.cl/handle/2250/196742
 # url_code: https://github.com/OpenCENIA/Spanish-Sentence-Evaluation
 # url_slides: 
