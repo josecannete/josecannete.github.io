@@ -24,11 +24,10 @@ interests:
 
 # Education to show in About widget
 education:
-  courses:
-  - course: MSc. in Computer Science
+  - area: MSc. in Computer Science
     institution: Universidad de Chile
     year: 2023
-  - course: BSc. in Computer Science and Engineering
+  - area: BSc. in Computer Science and Engineering
     institution: Universidad de Chile
     year: 2021
 
@@ -69,7 +68,7 @@ highlight_name: true
 
 Hello there, I'm José! 😁
 
-I'm a Expert Machine Learning Engineer at Walmart, passionate about leveraging AI for real-world impact. I hold an MSc. in Computer Science, graduated from Universidad de Chile, and specialize in Language Models.
+I'm an Expert Machine Learning Engineer at Walmart, passionate about leveraging AI for real-world impact. I hold an MSc. in Computer Science, graduated from Universidad de Chile, and specialize in Language Models.
 
 I pioneered [**BETO**](https://github.com/dccuchile/beto), the first BERT-like model for Spanish, and introduced [**ALBETO**](https://github.com/dccuchile/lightweight-spanish-language-models), a suite of light and fast models based in ALBERT for Spanish. 
 
