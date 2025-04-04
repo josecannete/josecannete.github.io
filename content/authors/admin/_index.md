@@ -2,8 +2,19 @@
 # Display name
 title: José Cañete
 
+# Full name (for SEO)
+first_name: José
+last_name: Cañete
+
 # Is this the primary user of the site?
 superuser: true
+
+# Status emoji
+status:
+  icon: ☕️
+
+# Highlight the author in author lists? (true/false)
+highlight_name: true
 
 # Role/position/tagline
 role: Expert Machine Learning Engineer | MSc. in Computer Science
@@ -32,25 +43,20 @@ education:
     year: 2021
 
 # Social/Academic Networking
-# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
-social:
-- icon: envelope
-  icon_pack: fas
-  link: mailto:jose.canete@ug.uchile.cl
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/jocannete
-- icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=2ymtl2YAAAAJ&hl=es&oi=ao
-- icon: github
-  icon_pack: fab
-  link: https://github.com/josecannete
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/jose-canete-lopez/
+# Social network links
+# Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
+profiles:
+  - icon: at-symbol
+    url: 'mailto:jose.canete@ug.uchile.cl'
+    label: E-mail Me
+  - icon: brands/x
+    url: https://twitter.com/jocannete
+  - icon: academicons/google-scholar
+    url: https://scholar.google.com/citations?user=2ymtl2YAAAAJ&hl=es&oi=ao
+  - icon: brands/github
+    url: https://github.com/josecannete
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/in/jose-canete-lopez/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
