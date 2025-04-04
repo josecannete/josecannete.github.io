@@ -14,8 +14,6 @@ Como no cachaba mucho ni de Node, ni de Javascript, me apoyé bastante en GitHub
 
 Todavía hay varias cosas que quiero mejorar, como agregar categorías de gastos desde el principio, automatizar su asignación según la descripción de las transacciones y manejar bien los payees. Pero quedé súper contento con lo que logré en tan poco tiempo. Me gustó mucho cómo la IA me ayudó a codear, así que voy a seguir experimentando.
 
-![Así se ve por ahora](featured.png)
-
 Si quieren probarlo, acá les dejo el repo donde seguiré trabajando: [https://github.com/josecannete/actual-fintoc](https://github.com/josecannete/actual-fintoc)
 
 Si tienen sugerencias o tips de cómo están usando estas herramientas ustedes, cuentenme porfa!
