@@ -1,8 +1,22 @@
 ---
-title: Sincronizando Fintoc con Actual Budget para automatizar mis finanzas personales
 date: 2025-03-31
+title: Sincronizando Fintoc con Actual Budget para automatizar mis finanzas personales
 summary: Sincronizando Fintoc con Actual Budget para automatizar mis finanzas personales
-commentable: true
+
+categories: 
+  - Personal Finance
+  - Open Source
+  - AI
+  - Software Development
+tags:
+    - Fintoc
+    - Actual Budget
+    - Node.js
+    - JavaScript
+    - Open Source
+    - Personal Finance
+    - Software Development
+    - AI
 ---
 
 Llevo un buen tiempo usando [Actual Budget](https://actualbudget.org/), un tremendo software open source para llevar el control de mis finanzas personales. Me ha servido muchísimo para entender en qué se me va la plata y manejar mejor mis gastos.
