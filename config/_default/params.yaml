@@ -16,16 +16,16 @@ appearance:
 marketing:
   seo:
     site_type: Person
-    local_business_type: ''
-    org_name: ''
+    local_business_type: ""
+    org_name: ""
     description: "I'm José, a Machine Learning Engineer and MSc in Computer Science student from Chile."
-    twitter: 'jocannete'
+    twitter: "jocannete"
   analytics:
-    google_analytics: ''
-    baidu_tongji: ''
+    google_analytics: ""
+    baidu_tongji: ""
   verification:
-    google: ''
-    baidu: ''
+    google: ""
+    baidu: ""
 
 # Site header
 
@@ -41,7 +41,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: "© {year} Me. This work is licensed under {license}"
     license:
       enable: true
       allow_derivatives: false
@@ -51,8 +51,8 @@ footer:
 # Localization
 
 locale:
-  date_format: 'Jan 2, 2006'
-  time_format: '3:04 PM'
+  date_format: "Jan 2, 2006"
+  time_format: "3:04 PM"
   address_format: en-us
 
 # Site features
@@ -70,30 +70,40 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: "https://github.com/<username>/<repository>"
     content_dir: content
     branch: master
   avatar:
     gravatar: false
     shape: circle
   comment:
-    provider: ''
-    disqus:
-      shortname: ''
-      show_count: true
-    commento:
-      url: ''
+    provider: "giscus"
+    giscus:
+      repo: "josecannete/blog-discussions"
+      repo_id: "R_kgDOOUJr3w"
+      category: "Announcements"
+      category_id: "DIC_kwDOOUJr384Coyen"
+      theme: "preferred_color_scheme"
+      language_code: "es"
+      mapping: pathname
   search:
     provider: wowchemy
     algolia:
-      app_id: ''
-      api_key: ''
-      index_name: ''
+      app_id: ""
+      api_key: ""
+      index_name: ""
       show_logo: false
   map:
-    provider: ''
-    api_key: ''
+    provider: ""
+    api_key: ""
     zoom: 15
+  social:
+    enable: true
+    platforms:
+      - twitter
+      - facebook
+      - linkedin
+      - reddit
 
 # Extensions
 
