@@ -49,8 +49,8 @@ profiles:
   - icon: at-symbol
     url: 'mailto:jose.canete@ug.uchile.cl'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/jocannete
+  - icon: brands/bluesky
+    url: https://bsky.app/profile/josecannete.bsky.social
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=2ymtl2YAAAAJ&hl=es&oi=ao
   - icon: brands/github
