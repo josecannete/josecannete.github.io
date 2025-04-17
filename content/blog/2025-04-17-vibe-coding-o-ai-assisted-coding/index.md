@@ -16,7 +16,7 @@ Ayer compartí un post sobre la librería que armé para facilitar mis finanzas
 
 Spoiler: tenía razón 😅
 
-![[conversacion-vibecoding.jpg]]
+![Afortunadamente mis amigos cachan más que yo.](conversacion-vibecoding.jpg)
 
 Yo estaba usando GitHub Copilot para avanzar más rápido y mejor en mi código. Pero claro, lo que estaba haciendo no era exactamente _vibe coding_.
 
@@ -40,8 +40,7 @@ Como dice Karpathy:
 
 ## Pero también está el otro extremo: _AI Assisted Coding_ 🧠🛠️
 
-![[vibecoding-supervision-ai-assisted-coding.png]]
-
+![](vibecoding-supervision-ai-assisted-coding.png)
 
 En el otro lado del espectro está lo que (por ahora) llamo _AI Assisted Coding_ — no encontré por ahí un nombre más cool, si han visto alguno, me cuentan! 😅
 
