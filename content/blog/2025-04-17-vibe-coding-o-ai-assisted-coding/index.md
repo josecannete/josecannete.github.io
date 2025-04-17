@@ -12,7 +12,7 @@ tags:
     - AI
 ---
 
-Ayer compartí un post sobre la librería que armé para facilitar mis finanzas. Todo bien... hasta que un amigo me escribió para decirme que le parecía _raro_ que usara el término **“vibe coding”** para describir lo que estaba haciendo.  
+Ayer compartí un post sobre la [librería que armé para facilitar mis finanzas](https://github.com/josecannete/transactions-chile). Todo bien... hasta que un amigo me escribió para decirme que le parecía _raro_ que usara el término **“vibe coding”** para describir lo que estaba haciendo.
 
 Spoiler: tenía razón 😅
 
@@ -66,7 +66,7 @@ Al final del día, es como cuando llegaron los IDEs con autocompletado: otra her
 
 Diría que depende mucho del caso. Es un **espectro**.
 
-👉 Si estoy en un lenguaje que no conozco mucho (como cuando conecté Fintoc con Actual Budget en Node.js, que nunca había tocado), me acerco más al _vibe coding_.  
+👉 Si estoy en un lenguaje que no conozco mucho (como cuando [conecté Fintoc con Actual Budget](https://github.com/josecannete/actual-fintoc) en Node.js, que nunca había tocado), me acerco más al _vibe coding_.  
 👉 Pero cuando trabajo en algo más familiar (como Python), uso los modelos como asistentes bien entrenados: me ayudan a refactorizar, testear, documentar bien (que es demasiado importante, pero pucha que da lata!).
 
 Uso VSCode con GitHub Copilot, en particular con Claude 3.7 y la verdad es que estoy fascinado. 🔥
