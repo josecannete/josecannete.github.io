@@ -25,7 +25,7 @@ Yo estaba usando GitHub Copilot para avanzar más rápido y mejor en mi código.
 ## Entonces, ¿qué es _vibe coding_? 🤔
 
 El término es reciente, y lo popularizó nada menos que Andrej Karpathy en este tuit:  
-👉 [https://x.com/karpathy/status/1886192184808149383?s=46&t=J8Y5cmpjHcljGJ1GCg2F4g](https://x.com/karpathy/status/1886192184808149383?s=46&t=J8Y5cmpjHcljGJ1GCg2F4g)
+👉 [Tuit de Karpathy](https://x.com/karpathy/status/1886192184808149383?s=46&t=J8Y5cmpjHcljGJ1GCg2F4g)
 
 Se refiere a una forma de programar usando modelos de lenguaje (LLMs) como asistentes creativos: les dices _en lenguaje natural_ lo que quieres hacer, y simplemente… aceptas lo que te entregan y sigues construyendo desde ahí.  
 Es como _freestylear código_.  🎤💻
@@ -40,7 +40,7 @@ Como dice Karpathy:
 
 ## Pero también está el otro extremo: _AI Assisted Coding_ 🧠🛠️
 
-![](vibecoding-supervision-ai-assisted-coding.png)
+![](vibecoding-supervision-ai-assisted-coding-negro.png)
 
 En el otro lado del espectro está lo que (por ahora) llamo _AI Assisted Coding_ — no encontré por ahí un nombre más cool, si han visto alguno, me cuentan! 😅
 
@@ -79,6 +79,4 @@ Estas herramientas pueden ser lo que tú quieras que sean. Puedes usarlas para h
 
 🎯 Lo importante: la forma de usarlo, dependerá totalmente del caso.
 
-Y ahora te pregunto: **¿Ya estás usando estas herramientas? ¿Hay alguna otra que recomiendes? **👇
-
----
+Y ahora te pregunto: **¿Ya estás usando estas herramientas?** ¿Hay alguna otra que recomiendes?👇
