@@ -1,6 +1,6 @@
 ---
 date: 2025-04-16
-title: De Fintoc a Excel cómo terminé haciendo una librería para importar mis transacciones a Actual Budget 💸📊
+title: "De Fintoc a Excel: cómo terminé haciendo una librería para importar mis transacciones a Actual Budget 💸📊"
 summary: En este artículo, comparto cómo intenté automatizar mis finanzas personales integrando Fintoc con Actual Budget, pero terminé desarrollando una solución más simple y efectiva. Dado que los bancos chilenos (Santander, Banco de Chile, Itaú) no ofrecen exportaciones en formatos compatibles con Actual (como QIF o OFX), creé una librería en Python llamada transactions-chile que convierte archivos Excel de transacciones bancarias a CSV estándar. La herramienta incluye un CLI fácil de usar y ya está disponible en PyPI. Ideal para quienes buscan simplificar la carga de datos financieros en Actual Budget desde bancos en Chile.
 
 categories: 
