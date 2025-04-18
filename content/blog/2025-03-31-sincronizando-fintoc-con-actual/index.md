@@ -1,7 +1,7 @@
 ---
 date: 2025-03-31
 title: Sincronizando Fintoc con Actual Budget para automatizar mis finanzas personales
-summary: Sincronizando Fintoc con Actual Budget para automatizar mis finanzas personales
+summary: "En este post cuento cómo conecté Fintoc con Actual Budget para automatizar mis finanzas, usando Node.js, GitHub Copilot y Claude 3.7, a pesar de no tener experiencia previa en ese stack. Spoiler: ¡la IA me salvó más de una vez!"
 
 categories: 
   - Personal Finance

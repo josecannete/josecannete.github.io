@@ -2,6 +2,7 @@
 title: Blog con Jupyter Notebooks!
 date: '2025-04-04'
 summary: Easily blog from Jupyter notebooks!
+draft: true
 ---
 
 
