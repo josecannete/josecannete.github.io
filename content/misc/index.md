@@ -3,6 +3,8 @@ title:
 summary: Misc, like press, podcasts, talks, etc.
 date: "2018-06-28T00:00:00Z"
 
+show_date: false
+
 reading_time: false  # Show estimated reading time?
 share: false  # Show social sharing links?
 profile: false  # Show author profile?
