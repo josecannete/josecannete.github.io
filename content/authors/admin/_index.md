@@ -57,6 +57,8 @@ profiles:
     url: https://github.com/josecannete
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/jose-canete-lopez/
+  - icon: custom/storygraph
+    url: https://app.thestorygraph.com/profile/josecannete
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
